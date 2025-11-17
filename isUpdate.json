@@ -1,5 +1,6 @@
 {
   "appV": 22,
   "upDateInfo": "Додано онбординг для ознайомлення з функціоналом застосунку.",
-  "isApproved":true
+  "isApproved":true,
+  "login": "login"
 }
